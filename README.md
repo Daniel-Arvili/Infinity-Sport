@@ -1,4 +1,5 @@
 # Infinity Sport - Online Fitness Equipment Store
+
 <p align="center">
 <img width="400" alt="main image" src="https://github.com/AvivHagag/InfinitySport/assets/116496118/c03323ea-eed4-493c-a203-51647c5a87a7">
 </p>
@@ -11,6 +12,7 @@ Infinity Sport is deployed and available online. You can visit the website at [D
 ## Media
 
 ### Main Page Video
+
 Watch a short video showcasing the main page of the Infinity Sport website:
 
 <a href="https://www.youtube.com/watch?v=avU1q6InrJw" title="Video Title">
@@ -37,6 +39,7 @@ Watch a short video showcasing the main page of the Infinity Sport website:
 - **CSS/Tailwind CSS**: Styling the website's user interface components.
 
 ### Mobile Responsiveness GIFs
+
 See how our website adapts to different screen sizes and themes with these GIFs:
 
 <p align="center">
